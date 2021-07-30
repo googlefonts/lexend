@@ -1,7 +1,7 @@
     sources:
       - Lexend.glyphs
     familyName: "Lexend Peta"
-    vfDir: ../fonts/7families/peta
+    outputDir: ../fonts/peta
     buildStatic: False
     buildWebfont: False
     axisOrder:

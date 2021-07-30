@@ -5,7 +5,10 @@
 Lexend is a variable typeface designed by Bonnie Shaver-Troup and Thomas Jockin in 2018.
 Applying the Shaver-Troup Individually Optimal Text Formation Factors, studies have found readers instantaneously improve their reading fluency.
 
-Lexend was expaned to Arabic in January 2020. The Shaver-Troup Formulation was applied to Arabic with advisement from Arabic Typeface Designer, Nadine Chahine.
+Lexend was expanded to Arabic in July 2021. The Shaver-Troup Formulation was applied to Arabic with advisement from Arabic Typeface Designer, Nadine Chahine.
+See <https://github.com/ThomasJockin/readexpro>.
+
+Lexend was turned into a variable font with weight axis (Thin to Black) by Font Bureau in March 2021.
 
 This font is based on the Quicksand project from Andrew Paglinawan, initiated in 2008.
 Quicksand was improved in 2016 by Thomas Jockin for Google Fonts. Thomas modified Quicksand for the specialized task of improving reading fluency in low-proficiency readers (including those with dyslexia.)
@@ -17,14 +20,17 @@ Quicksand was improved in 2016 by Thomas Jockin for Google Fonts. Thomas modifie
 
 - First public release
 
-2020 January 18 (Thomas Jockin) Version 1.001
-
-- Expansion to Arabic script
-- Bug fixes in Latin Character Set
-
 June 2021 (Font Bureau) Version 1.006
 
 - Addition of weight axis (Thin, Light, Black masters)
+- Bug fixes in Latin Character Set
+
+July 2021 (Thomas Jockin) Version 1.1
+
+- Expansion to Arabic script
+See <https://github.com/ThomasJockin/readexpro>
+
+
 
 ##  Where To Get It
 
@@ -55,14 +61,14 @@ D: Designer of Lexend (derived from Quicksand)
 
 N: Nadine Chahine 
 E: <nadine@arabictype.com>   
-W: <http://arabictype.com/>  
-D: Designer of Readex Pro (Arabic of ReadEx PRo, derived from Lexend Latin)
+W: <http://arabictype.com>  
+D: Designer of Readex Pro (Arabic of Readex PRo, derived from Lexend Latin)
 
 N: Font Bureau
 E: David Berlow <dberlow@fontbureau.com>
 E: Santiago Orozco <hi@typemade.com>
 E: Héctor Gómez <hector@typemade.com>
-W: <http://www.fontbureau.com/ReadingEdge/>
+W: <http://www.fontbureau.com/ReadingEdge>
 D: Designer of weight axis
 
 For more information about this font please visit [www.lexend.com](http://www.lexend.com)

@@ -1,7 +1,7 @@
     sources:
       - Lexend.glyphs
     familyName: "Lexend Mega"
-    vfDir: ../fonts/7families/mega
+    outputDir: ../fonts/mega
     buildStatic: False
     buildWebfont: False
     axisOrder:

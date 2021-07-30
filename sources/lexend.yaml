@@ -1,7 +1,9 @@
     sources:
       - Lexend.glyphs
-    buildOTF: False
     familyName: Lexend
+    outputDir: ../fonts/lexend
+    buildOTF: False
+    buildWebfont: False
     axisOrder:
       # - HEXP
       - wght

@@ -9,7 +9,5 @@
 # Names should be added to this file as:
 # Name <email address>
 
-Bonnie Shaver-Troup <bshavertroup@lexend.com>
-Thomas Jockin <thomas@thomasjockin.com>
-Nadine Chanine <nadine@arabictype.com>
 Rosalie Wagner <mail@rosaliewagner.com>
+David Berlow <dberlow@fontbureau.com>

@@ -1,5 +1,5 @@
 {
-.appVersion = "3086";
+.appVersion = "3094";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2019 The Lexend Project Authors (https://github.com/ThomasJockin/lexend)";
+copyright = "Copyright 2019 The Lexend Project Authors https://github.com/googlefonts/lexend";
 customParameters = (
 {
 name = fsType;
@@ -153715,5 +153715,5 @@ zero.zero
 };
 };
 versionMajor = 1;
-versionMinor = 100;
+versionMinor = 7;
 }

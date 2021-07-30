@@ -1,7 +1,7 @@
     sources:
       - Lexend.glyphs
     familyName: Lexend Deca
-    vfDir: ../fonts/7families/deca
+    vfDir: ../fonts/deca/variable
     buildStatic: False
     buildWebfont: False
     axisOrder:

@@ -5,7 +5,7 @@
 Lexend is a variable typeface designed by Bonnie Shaver-Troup and Thomas Jockin in 2018.
 Applying the Shaver-Troup Individually Optimal Text Formation Factors, studies have found readers instantaneously improve their reading fluency.
 
-Lexend was expanded to Arabic in January 2020. The Shaver-Troup Formulation was applied to Arabic with advisement from Arabic Typeface Designer, Nadine Chahine.
+Lexend was expanded to Arabic in July 2021. The Shaver-Troup Formulation was applied to Arabic with advisement from Arabic Typeface Designer, Nadine Chahine.
 See <https://github.com/ThomasJockin/readexpro>.
 
 Lexend was turned into a variable font with weight axis (Thin to Black) by Font Bureau in March 2021.
@@ -20,14 +20,17 @@ Quicksand was improved in 2016 by Thomas Jockin for Google Fonts. Thomas modifie
 
 - First public release
 
-2020 January 18 (Thomas Jockin) Version 1.001
-
-- Expansion to Arabic script
-- Bug fixes in Latin Character Set
-
 June 2021 (Font Bureau) Version 1.006
 
 - Addition of weight axis (Thin, Light, Black masters)
+- Bug fixes in Latin Character Set
+
+July 2021 (Thomas Jockin) Version 1.1
+
+- Expansion to Arabic script
+See <https://github.com/ThomasJockin/readexpro>
+
+
 
 ##  Where To Get It
 

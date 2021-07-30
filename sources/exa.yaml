@@ -1,7 +1,7 @@
     sources:
       - Lexend.glyphs
     familyName: "Lexend Exa"
-    vfDir: ../fonts/7families/exa
+    outputDir: ../fonts/exa
     buildStatic: False
     buildWebfont: False
     axisOrder:

@@ -1,7 +1,7 @@
     sources:
       - Lexend.glyphs
     familyName: "Lexend Zetta"
-    vfDir: ../fonts/7families/zetta
+    outputDir: ../fonts/zetta
     buildStatic: False
     buildWebfont: False
     axisOrder:

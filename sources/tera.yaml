@@ -1,7 +1,7 @@
     sources:
       - Lexend.glyphs
     familyName: "Lexend Tera"
-    vfDir: ../fonts/7families/tera
+    outputDir: ../fonts/tera
     buildStatic: False
     buildWebfont: False
     axisOrder:

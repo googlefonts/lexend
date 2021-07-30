@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2019 The Lexend Project Authors https://github.com/googlefonts/lexend";
+copyright = "Copyright 2019 The Lexend Project Authors (https://github.com/googlefonts/lexend)";
 customParameters = (
 {
 name = fsType;

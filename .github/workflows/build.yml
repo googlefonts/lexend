@@ -1,0 +1,46 @@
+name: Build Fonts
+
+on: 
+  push:
+    branches: 
+    - master
+    paths:
+    - sources/**
+  pull_request:
+    branches: 
+    - master
+    paths:
+    - sources/**
+
+jobs:
+  static-font-ci-job:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.8]
+    name: Build Lexend VF
+    steps:
+      - name: Check out Lexend sources repository
+        uses: actions/checkout@v2
+      - name: Set up Python v${{ matrix.python-version }} environment
+        uses: actions/setup-python@v1
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Python build dependency cache lookup
+        uses: actions/cache@v1
+        with:
+          path: ~/.cache/pip
+          # Check for requirements file cache hit
+          key: ${{ runner.os }}-pip-${{ hashFiles('${{ steps.config.outputs.dependpath }}') }}
+      - name: Install Python build dependencies
+        uses: py-actions/py-dependency-install@v2
+        with:
+          update-wheel: "true"
+          update-setuptools: "true"
+      - name: Build fonts
+        run: sh sources/build.sh
+      - name: Upload Fonts
+        uses: actions/upload-artifact@v2
+        with:
+          name: Fonts
+          path: fonts/lexend/

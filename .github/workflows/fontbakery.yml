@@ -28,11 +28,11 @@ jobs:
           update-wheel: "true"
           update-setuptools: "true"
       - name: Build fonts
-        run: gftools builder sources/lexend.yaml
+        run: gftools builder sources/lexend-CI.yaml
       - name: Make Fontbakery Report
         uses: f-actions/font-bakery@v1
         with:
           version: "latest"
           subcmd: "check-googlefonts"
           args: "--succinct --loglevel WARN --ghmarkdown report.md"
-          path: "fonts/lexend/variable/*.ttf"
+          path: "fonts/CI/*.ttf"

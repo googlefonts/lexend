@@ -65,10 +65,10 @@ W: <http://arabictype.com>
 D: Designer of Readex Pro (Arabic of Readex PRo, derived from Lexend Latin)
 
 N: Font Bureau
-E: David Berlow <dberlow@fontbureau.com>
-E: Santiago Orozco <hi@typemade.com>
-E: Héctor Gómez <hector@typemade.com>
-W: <http://www.fontbureau.com/ReadingEdge>
+E: David Berlow <dberlow@fontbureau.com><br/>
+E: Santiago Orozco <hi@typemade.com><br/>
+E: Héctor Gómez <hector@typemade.com><br/>
+W: <http://www.fontbureau.com/ReadingEdge><br/>
 D: Designer of weight axis
 
 For more information about this font please visit [www.lexend.com](http://www.lexend.com)

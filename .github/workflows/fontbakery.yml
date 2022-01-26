@@ -34,5 +34,5 @@ jobs:
         with:
           version: "latest"
           subcmd: "check-googlefonts"
-          args: "-C --succinct --loglevel WARN --ghmarkdown report.md"
+          args: "--succinct --loglevel WARN --ghmarkdown report.md"
           path: "fonts/lexend/variable*.ttf"

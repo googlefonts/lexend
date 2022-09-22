@@ -35,7 +35,7 @@ jobs:
           version: "latest"
           subcmd: "check-googlefonts"
           args: "--succinct --loglevel WARN --ghmarkdown report.md"
-          path: "fonts/CI/variable/*.ttf"
+          path: "fonts/lexend/variable/*.ttf"
       - name: Upload files
         uses: actions/upload-artifact@v2
         with:

@@ -9,8 +9,6 @@ BUILD LEXEND AND ALL STATICS
 ."
 
 gftools builder lexend.yaml
-fonttools varLib.instancer ../fonts/lexend/variable/$vf HEXP=0 --output ../fonts/lexend/variable/Lexend[wght].ttf
-rm ../fonts/lexend/variable/$vf
 
 echo ".
 BUILD DECA

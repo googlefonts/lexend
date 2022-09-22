@@ -28,7 +28,7 @@ jobs:
           update-wheel: "true"
           update-setuptools: "true"
       - name: Build fonts
-        run: gftools builder sources/lexend-CI.yaml
+        run: gftools builder sources/lexend.yaml
       - name: Make Fontbakery Report
         uses: f-actions/font-bakery@v1
         with:

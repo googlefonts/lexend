@@ -3,7 +3,7 @@ sources:
 familyName: Lexend
 outputDir: ../fonts/lexend
 buildOTF: false
-buildWebfont: false
+buildWebfont: true
 axisOrder:
   - HEXP
   - wght

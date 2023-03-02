@@ -35,7 +35,7 @@ See <https://github.com/ThomasJockin/readexpro>
 ##  Where To Get It
 
 * Via the website's [download form](https://www.lexend.com/#download)
-* Directly from [GitHub](https://github.com/ThomasJockin/lexend/tree/master/fonts)
+* Directly from [GitHub](https://github.com/googlefonts/lexend/tree/main/fonts)
 * From [CTAN](https://www.ctan.org/pkg/lexend): `tlmgr install lexend`
 * From [Homebrew](https://brew.sh/): `brew cask install font-lexend-deca`
 
